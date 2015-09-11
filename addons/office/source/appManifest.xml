@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Created:cbbc9d22-5cf7-4e4c-8ee9-42a772aae58a-->
+<App ProductID="{5908506e-39fb-44a5-9073-8159a2dbece5}" Version="1.0.0.0" SharePointMinVersion="15.0.0.0" Name="mapsExampleAddin" xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest">
+  <Properties>
+    <Title>mapsExampleAddin</Title>
+    <StartPage>~appWebUrl/OfficeDocuments/</StartPage>
+  </Properties>
+  <AppPrincipal>
+    <Internal />
+  </AppPrincipal>
+  <AppPermissionRequests>
+  </AppPermissionRequests>
+</App>

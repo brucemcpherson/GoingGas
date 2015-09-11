@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Created:cbbc9d22-5cf7-4e4c-8ee9-42a772aae58a-->
+<OfficeApp xsi:type="TaskPaneApp" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/office/appforoffice/1.0">
+  <Id>371e82f4-21aa-4f4e-a68b-125a72079783</Id>
+  <Version>1.0.0.0</Version>
+  <ProviderName>Bruce Mcpherson</ProviderName>
+  <DefaultLocale>en-US</DefaultLocale>
+  <DisplayName DefaultValue="mapsExampleAddin" />
+  <Description DefaultValue="mapsExampleAddin" />
+  <Capabilities>
+    <Capability Name="Workbook" />
+    <Capability Name="Project" />
+    <Capability Name="Document" />
+    <Capability Name="Presentation" />
+  </Capabilities>
+  <DefaultSettings>
+    <SourceLocation DefaultValue="~appWebUrl/App/Home/index.html" />
+  </DefaultSettings>
+  <Permissions>ReadWriteDocument</Permissions>
+</OfficeApp>

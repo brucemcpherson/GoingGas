@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<!-- styles -->
+<?!= HtmlService.createHtmlOutputFromFile('styles.css').getContent(); ?>
+
+<div class="content">
+  <div id="map-canvas" class="block map"></div>
+  <div class="block">
+    <label for="region-select">Select region</label>
+    <select id="region-select">
+    </select>
+  </div>
+</div>
+
+<div class = "block">
+  <div id="message" class="message"></div>
+</div>
+
+<div class="block aside">
+airport list courtesy of <a href="http://ourairports.com/data/">ourairports.com</a>
+</div>
+<!-- javascript. -->
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=false"></script>
+<?!= requireJs(['main']); ?>
+<?!= requireGs(['App','Utils','Client','Render','Cors']); ?>
+
+

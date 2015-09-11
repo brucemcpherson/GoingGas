@@ -1,0 +1,25 @@
+
+// wait for the viz lib to have loaded
+google.maps.event.addDomListener(window, 'load', function () {
+
+  // hack the scroll bar
+  // https://code.google.com/p/google-apps-script-issues/issues/detail?id=5164
+  parent.document.getElementById('userHtmlFrame').style.overflowY = "hidden";
+  
+  // initialize the settings
+  App.init();
+  
+  // get the countries from the API
+  App.getCountries();
+  
+  // set up listeners
+  App.listeners();
+  
+  // kick off by getting data, and building page
+  Client.getData ();
+  
+
+});
+
+
+
