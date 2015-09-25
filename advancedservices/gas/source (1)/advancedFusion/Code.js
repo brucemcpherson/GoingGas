@@ -22,3 +22,9 @@ function sheetCopy() {
   setProperties (Settings);
 
 }
+function someOtherServices() {
+  Logger.log(Analytics.Management.AccountSummaries.list());
+  Logger.log(Plus.Activities.list('me', 'public', {
+      maxResults: 10
+  }));
+}

@@ -73,7 +73,7 @@
    * @return {boolean} true if item is undefined
    */
   function IsNothing (value) {
-    return value ? true : false;
+    return value === null || isUndefined(value) ;
   }
   
   /**

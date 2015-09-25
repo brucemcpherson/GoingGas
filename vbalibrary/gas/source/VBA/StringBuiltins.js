@@ -48,7 +48,7 @@
  * @param {*} value the value to be converted
  * @return {boolean} the converted bool
  */
- function cBool (value) {
+ function CBool (value) {
    return value ? true : false;
  }
  
@@ -57,7 +57,7 @@
  * @param {string} dateString  the date to be converted
  * @return {Date} the date object
  */
- function cDate (dateString) {
+ function CDate (dateString) {
    return new Date (dateString);
  }
 /**
@@ -176,8 +176,7 @@
    * @return {string} The right portion of the string
    */
   function Right (theString,length) {
-    var s = theString.toString();
-    return s.slice(s.length - length ,s.length);
+    return theString.toString().slice(-length);
   }
   
   /**
