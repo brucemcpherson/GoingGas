@@ -1,5 +1,5 @@
 # Google Apps Script Project: updateCarrierStandalone
-This repo (updateCarrierStandalone) was automatically updated on 23 September 2015 16:11:01 BST by GasGit
+This repo (updateCarrierStandalone) was automatically updated on 03 March 2016 09:38:13 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project updateCarrierStandalone

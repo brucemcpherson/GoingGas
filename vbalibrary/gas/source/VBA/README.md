@@ -1,5 +1,5 @@
 # Google Apps Script Project: VBA
-This repo (VBA) was automatically created on 23 September 2015 16:11:08 BST by GasGit
+This repo (VBA) was automatically created on 03 March 2016 09:38:21 GMT by GasGit
 for more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation")
 you can see [library and dependency information here](dependencies.md)
 

@@ -1,5 +1,5 @@
 # Google Apps Script Project: contentserviceexample
-This repo (contentserviceexample) was automatically updated on 23 September 2015 16:10:31 BST by GasGit
+This repo (contentserviceexample) was automatically updated on 03 March 2016 09:37:34 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project contentserviceexample
