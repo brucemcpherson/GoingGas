@@ -1,7 +1,7 @@
 # Google Apps Script Project: firebaseExample
 This repo (firebaseExample) was automatically updated on 03 March 2016 09:37:44 GMT by GasGit
 
-For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
+For more information see the [desktop liberation site](https://ramblings.mcpher.com/drive-sdk-and-github/getting-your-apps-scripts-to-github/ "desktop liberation") or [contact me on G+](https://gitter.im/desktopliberation/community "Bruce McPherson - GDE")
 ## Details for Apps Script project firebaseExample
 Where possible directly referenced or sub referenced library sources have been copied to this repository, or you can include the library references shown. 
 The shared link for [firebaseExample is here](https://script.google.com/d/1AvvpxKigq8dXkMdxwYOlfTNtjB3zsEHl99kd-TGw6HQLzV0dWZJet0UC/edit?usp=sharing "open in the GAS IDE")
