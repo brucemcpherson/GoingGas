@@ -1,7 +1,7 @@
 # Google Apps Script Project: gmailExample
 This repo (gmailExample) was automatically updated on 03 March 2016 09:37:55 GMT by GasGit
 
-For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
+For more information see the [desktop liberation site](https://ramblings.mcpher.com/drive-sdk-and-github/getting-your-apps-scripts-to-github/ "desktop liberation") or [contact me on Gitter](https://gitter.im/desktopliberation/community "Bruce McPherson - GDE")
 ## Details for Apps Script project gmailExample
 Where possible directly referenced or sub referenced library sources have been copied to this repository, or you can include the library references shown. 
 The shared link for [gmailExample is here](https://script.google.com/d/1ZgUcnA8TzO9BRkHa4ocIY3tlQ7GaIdJQ1AUJu-om1Qsrqs1uAsC482qC/edit?usp=sharing "open in the GAS IDE")
