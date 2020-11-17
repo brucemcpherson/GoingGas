@@ -1,7 +1,7 @@
 # Google Apps Script Project: exec
 This repo (exec) was automatically updated on 03 March 2016 09:37:04 GMT by GasGit
 
-For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
+For more information see the [desktop liberation site](https://ramblings.mcpher.com/drive-sdk-and-github/getting-your-apps-scripts-to-github/ "desktop liberation") or [contact me on Gitter](https://gitter.im/desktopliberation/community "Bruce McPherson - GDE")
 ## Details for Apps Script project exec
 Where possible directly referenced or sub referenced library sources have been copied to this repository, or you can include the library references shown. 
 The shared link for [exec is here](https://script.google.com/d/1b8-qNKLgHf71AyHp_Ec7Tp-GkPUixSXV3uUmI5tKgKJzfPNKF314amNp/edit?usp=sharing "open in the GAS IDE")
